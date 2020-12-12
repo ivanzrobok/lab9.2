@@ -1,0 +1,5 @@
+﻿  lab9.2.cpp
+C:\Users\LapStore\source\repos\lab9.2\lab9.2\lab9.2.cpp(126,93): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\LapStore\source\repos\lab9.2\lab9.2\lab9.2.cpp(256,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\LapStore\source\repos\lab9.2\lab9.2\lab9.2.cpp(155): warning C4715: BinSearch: значение возвращается не при всех путях выполнения
+  lab9.2.vcxproj -> C:\Users\LapStore\source\repos\lab9.2\Debug\lab9.2.exe
